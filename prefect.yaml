@@ -25,12 +25,9 @@ deployments:
   tags: []
   description: null
   entrypoint: .\testing_args.py:print_args
-  parameters: {}
+  parameters: {"name": "Marvin", "num": 42, "url": "https://catfact.ninja/fact"}
   work_pool:
     name: default-pool
     work_queue_name: null
-    job_variables:
-      env:
-        EXECUTION_ENVIRONMENT: staging
-        MY_NOT_SO_SECRET_CONFIG: plumbus
+    job_variables: {}
   schedules: []

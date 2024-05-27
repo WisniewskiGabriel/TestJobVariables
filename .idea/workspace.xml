@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ce255f-03c5-43e8-92c4-baa1179ae443" name="Changes" comment="job vars no yaml">
+    <list default="true" id="c8ce255f-03c5-43e8-92c4-baa1179ae443" name="Changes" comment="tentar print de vars do deployment custom">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prefect.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/prefect.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716776217856</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tentar print de vars do deployment custom">
+      <option name="closed" value="true" />
+      <created>1716776667044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716776667044</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +116,7 @@
     <MESSAGE value="add print_logs = True" />
     <MESSAGE value="parameters add" />
     <MESSAGE value="job vars no yaml" />
-    <option name="LAST_COMMIT_MESSAGE" value="job vars no yaml" />
+    <MESSAGE value="tentar print de vars do deployment custom" />
+    <option name="LAST_COMMIT_MESSAGE" value="tentar print de vars do deployment custom" />
   </component>
 </project>
