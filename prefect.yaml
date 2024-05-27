@@ -25,10 +25,12 @@ deployments:
   tags: []
   description: null
   entrypoint: .\testing_args.py:print_args
-  parameters:
-    IDs: 99999991,8882832,
+  parameters: {}
   work_pool:
     name: default-pool
     work_queue_name: null
-    job_variables: {}
+    job_variables:
+      env:
+        EXECUTION_ENVIRONMENT: staging
+        MY_NOT_SO_SECRET_CONFIG: plumbus
   schedules: []
