@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ce255f-03c5-43e8-92c4-baa1179ae443" name="Changes" comment="tentar print de vars do deployment custom">
+    <list default="true" id="c8ce255f-03c5-43e8-92c4-baa1179ae443" name="Changes" comment="add params no yaml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prefect.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/prefect.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prefect.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716776667044</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add params no yaml">
+      <option name="closed" value="true" />
+      <created>1716776836989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716776836989</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,6 +125,7 @@
     <MESSAGE value="parameters add" />
     <MESSAGE value="job vars no yaml" />
     <MESSAGE value="tentar print de vars do deployment custom" />
-    <option name="LAST_COMMIT_MESSAGE" value="tentar print de vars do deployment custom" />
+    <MESSAGE value="add params no yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add params no yaml" />
   </component>
 </project>
